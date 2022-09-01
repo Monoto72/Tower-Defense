@@ -1,0 +1,11 @@
+name: Towerdefense
+version: '${project.version}'
+main: me.monoto.towerdefense.TowerDefense
+api-version: 1.19
+authors: [ Monoto ]
+description: Cubecraft rip-off tower defense
+depend:
+  - Vault
+  - WorldEdit
+  - HolographicDisplays
+  - ProtocolLib
